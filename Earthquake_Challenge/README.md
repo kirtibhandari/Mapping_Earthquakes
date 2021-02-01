@@ -41,6 +41,7 @@ Finally, to illustrate the relationship between location and frequency of seismi
 
 Thus, an interactive map which displays street, satellite and dark view to present tectonic plates, earthquakes and major earthquakes on the geographical world map for the past seven days have been plotted for data visualization to provide insights by the disaster reporting network to the concerned authorities in order to make future decisions .
 
-Take a glimpse of project at: https://kirtibhandari.github.io/Mappping_Earthquakes/Earthquake_Challenge/
+**RESULTING MAPS**
+![](https://github.com/kirtibhandari/UFOs/blob/main/Resources/Date_and_City.png)
 
 
